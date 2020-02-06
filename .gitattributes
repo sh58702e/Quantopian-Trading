@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 #僅能使用在quantopian上
+#original為初始版本，update為符合quantopian演算法比賽的程式碼，每個倉位在0.04以下，並在其us股票環境下篩選操作，一次倉位至少操作40支
